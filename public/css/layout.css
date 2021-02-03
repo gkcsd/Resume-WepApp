@@ -231,7 +231,7 @@ ul#nav li.current a {
 }
 #about .profile-pic {
   position: relative;
-  width: 120px;
+  width: 110px;
   height: 150px;
   border-radius: 10%;
   border: 4px solid whitesmoke;
