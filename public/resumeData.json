@@ -1,0 +1,127 @@
+{
+  "main": {
+    "name": "Ganesh Kale",
+    "occupation": "Student OF Computer Science & Engineering",
+    "description": "I'm a Full Stack Web Developer & Competitive Coder",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Ganesh Kale! You might also know me as GKCSD. I’m A Full Stack Web Developer, Competitive Coder & I Like To Design Beautiful Responsive Websites & Solving Complex Algorithm Problems. I Love to Learn & Explorer Varous New Technologies.",
+    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
+    "email": "kaleg2025@gmail.com",
+    "phone": "+91 9130342453",
+    "address": {
+      "street": "Sangli",
+      "city": "Sangli",
+      "state": "Maharashtra"
+    },
+    "resumedownload": "alert('Mail Me')",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/gkcsd",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/gkcsd",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/GaneshKale",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/ganeshkaleofficial/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "twitter",
+        "url": "https://www.facebook.com/gkcsd_",
+        "className": "fa fa-twitter"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Dr. Babasaheb Ambedkar Technological University, Lonere - India",
+        "degree": "Bachelor's Degree, Computer Science & Engineering",
+        "graduated": "Persuing B.Tech"
+      }
+    ],
+    "work": [
+      {
+        "company": "MindScript TechnoWays",
+        "title": "Web Developer",
+        "years": "May 2019",
+        "description": "Created Different Kind Of Responsive Website Using Various Technologies"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "Java",
+        "level": "95%"
+      },
+      {
+        "name": "C++",
+        "level": "90%"
+      },
+      {
+        "name": "Python",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "95%"
+      },
+      {
+        "name": "Web Development",
+        "level": "85%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "NetFlix Clone",
+        "category": "ReactJs",
+        "image": "NetflixClone.png",
+        "url": "https://netflix-clone-7536d.web.app/"
+      },
+      {
+        "title": "CoffeeShop App",
+        "category": "HTML,SASS,Js,PHP",
+        "image": "Coffeeshop.png",
+        "url": "https://sinzcoffeeshop.netlify.app/"
+      },
+      {
+        "title": "PortFolio App",
+        "category": "HTML,SASS,Js,PHP",
+        "image": "DevApp.png",
+        "url": "https://ganeshkale.netlify.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Ganesh is absolutely excellent, his depth of knowledge & his Technical Logic really Awesome... I would definitely recommend",
+        "user": "Akshay Jadhav"
+      },
+      {
+        "text": "Working with Ganesh has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Swpanil Deokar"
+      }
+    ]
+  }
+}
